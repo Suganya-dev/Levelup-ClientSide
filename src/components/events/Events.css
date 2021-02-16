@@ -1,0 +1,14 @@
+.events {
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.event {
+    background-color: goldenrod;
+    border: 20px dashed lime;
+    padding: 5rem;
+    line-height: 3rem;
+    margin: 2px;
+}

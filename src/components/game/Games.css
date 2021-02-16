@@ -1,0 +1,14 @@
+.games {
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.game {
+    background-color: cornsilk;
+    border: 5px dotted fuchsia;
+    padding: 5rem;
+    line-height: 3rem;
+    margin: 2px;
+}
